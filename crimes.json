@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "city": "Amaravati",
+    "victimName": "sagar",
+    "crimeType": "thefting",
+    "date": "2026-06-02",
+    "complaint": "thefting the chain by passing through to road",
+    "createdAt": "2026-06-30T14:00:48.374Z",
+    "updatedAt": "2026-06-30T14:00:48.374Z"
+  }
+]
